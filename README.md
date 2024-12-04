@@ -4,7 +4,8 @@ TransJakarta adalah sistem Bus Rapid Transit (BRT) terbesar di dunia yang melaya
 
 Proyek ini bertujuan untuk mengeksplorasi data operasional TransJakarta guna memberikan wawasan yang bermanfaat bagi pengambilan keputusan.
 
-Tujuan Proyek
+Tujuan Proyek:
+
 1.Menganalisis data operasional TransJakarta.
 2.Mengidentifikasi pola perjalanan dan waktu tempuh.
 3.Mendeteksi anomali dalam data perjalanan.
